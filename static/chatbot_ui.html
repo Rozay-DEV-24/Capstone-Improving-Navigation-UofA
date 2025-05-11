@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UA Nav Access Chatbot</title>
+  <style>
+      body {
+        font-family: 'Segoe UI', sans-serif;
+        background: #f9f9fb;
+        margin: 0;
+        padding: 2rem;
+      }
+
+      #chatbox {
+        background: #fff;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        max-width: 800px;
+        margin: auto;
+        border-top: 6px solid #8C1D40;
+      }
+
+      h1 {
+        color: #0C234B;
+        margin-top: 0;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        font-size: 1.8rem;
+      }
+
+      .file-section {
+      display: none;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      margin-top: 1rem;
+      }
+
+      .file-section input[type="file"] {
+        padding: 0.4rem;
+      }
+
+      .file-section button {
+        background: #0C234B;
+        color: white;
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+
+      .file-section button:hover {
+        background: #8C1D40;
+      }
+
+      .bot-bubble {
+        background: #e9f2fa;
+        padding: 1rem;
+        border-radius: 8px;
+        font-size: 0.95rem;
+        margin-top: 1rem;
+        color: #0C234B;
+      }
+
+      .bot-bubble b {
+        color: #8C1D40;
+      }
+
+      .message {
+        margin: 1rem 0;
+      }
+
+      .user {
+        text-align: right;
+        color: #8C1D40;
+      }
+
+      .bot {
+        text-align: left;
+        color: #0C234B;
+      }
+
+      .llm-block {
+        background: #fff;
+        padding: 0.8rem;
+        border-left: 4px solid #8C1D40;
+        margin-top: 1rem;
+      }
+
+      .llm-block ul {
+        padding-left: 1.2rem;
+      }
+
+      .llm-block li {
+        margin-bottom: 0.4rem;
+      }
+
+      #text-input-area {
+        margin-top: 1.5rem;
+        display: flex;
+        gap: 0.5rem;
+      }
+
+      #text-input-area input {
+        flex-grow: 1;
+        padding: 0.6rem;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+        font-size: 1rem;
+      }
+
+      #text-input-area button {
+        background: #0C234B;
+        color: white;
+        border: none;
+        padding: 0.6rem 1.2rem;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1rem;
+      }
+
+      #text-input-area button:hover {
+        background: #8C1D40;
+      }
+
+      .error {
+        color: #b00020;
+        font-weight: bold;
+      }
+
+      .visually-hidden {
+        position: absolute;
+        left: -9999px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+      }
+  </style>
+</head>
+<body>
+  <main id="chatbox" role="main" aria-labelledby="chat-title">
+    <h1 id="chat-title">UA Nav Access Chatbot</h1>
+
+    <section class="file-section" aria-label="Image upload section">
+      <p id="upload-instructions" class="visually-hidden">
+        Choose a campus map screenshot to upload for analysis.
+      </p>
+      <form id="upload-form" enctype="multipart/form-data" aria-describedby="upload-instructions">
+        <label for="file">Upload campus map screenshot:</label>
+        <input type="file" name="file" id="file" required />
+        <button type="submit">Upload Image</button>
+      </form>
+    </section>
+
+    <!-- Live region for screen reader to announce messages -->
+    <section id="messages" role="log" aria-live="polite" aria-relevant="additions" aria-atomic="false"></section>
+
+    <section id="text-input-area" aria-label="User input section">
+      <label for="user-message" class="visually-hidden">Your message:</label>
+      <input
+        type="text"
+        id="user-message"
+        placeholder="Type a response..."
+        aria-label="Type your message here and press send or Enter"
+      />
+      <button id="send-btn" aria-label="Send message">Send</button>
+    </section>
+  </main>
+
+  <script>
+    let imageUploaded = false;
+    let awaitingNearbyConsent = false;
+    let awaitingDirection = false;
+    let awaitingStartChoice = true;
+    let awaitingManualStart = false;
+    let ongoing = true;
+    let startingPoint = "";
+  
+    function addMessage(role, text) {
+      const div = document.createElement("div");
+      div.className = `message ${role}`;
+      div.innerHTML = `<div role="alert" aria-live="polite">${text}</div>`;
+      messages.appendChild(div);
+      messages.scrollTop = messages.scrollHeight;
+    }
+  
+    function formatResponse(text) {
+      return text
+        .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')
+        .replace(/\n\n/g, '<br><br>')
+        .replace(/\n/g, '<br>');
+    }
+  
+    const uploadForm = document.getElementById("upload-form");
+    const messages = document.getElementById("messages");
+    const textInputArea = document.getElementById("text-input-area");
+    const sendBtn = document.getElementById("send-btn");
+    const userInputField = document.getElementById("user-message");
+  
+    addMessage("bot", "Hi! How would you like to set your starting location?");
+    addMessage("bot", "Type <b>upload</b> to upload a map screenshot, or <b>type</b> to enter the building name manually.");
+  
+    uploadForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const fileInput = document.getElementById("file");
+      const formData = new FormData();
+      formData.append("file", fileInput.files[0]);
+  
+      addMessage("user", `📄 Uploaded: ${fileInput.files[0].name}`);
+  
+      const res = await fetch("http://localhost:8000/upload", {
+        method: "POST",
+        body: formData,
+      });
+  
+      const data = await res.json();
+      imageUploaded = true;
+  
+      if (data.error) {
+        addMessage("bot", `<div class='error'>❗ ${data.error}</div>`);
+        return;
+      }
+  
+      const infoBlock = `
+        <div class='bot-bubble'>
+          <b>Building Name:</b> ${data.building_name}<br>
+          <b>Building Number:</b> ${data.building_number}<br>
+          <b>Address:</b> 📍 ${data.address}
+        </div>`;
+      addMessage("bot", infoBlock);
+      startingPoint = data.building_name;
+      addMessage("bot", "Would you like to know nearby buildings? (yes/no)");
+      awaitingNearbyConsent = true;
+    });
+  
+    // ⏎ Send message on Send button click
+    sendBtn.addEventListener("click", async () => {
+      const userInput = userInputField.value.trim();
+      if (!userInput || !ongoing) return;
+  
+      addMessage("user", userInput);
+      userInputField.value = "";
+  
+      const lower = userInput.toLowerCase();
+      const accessibilityEnabled = true;
+  
+      if (["exit", "end", "thanks", "thank you"].includes(lower)) {
+        addMessage("bot", "Thank you! Chat session ended. You may upload another image to restart.");
+        textInputArea.style.display = "none";
+        ongoing = false;
+        return;
+      }
+  
+      if (awaitingStartChoice) {
+        if (lower === "upload") {
+          document.querySelector(".file-section").style.display = "flex";
+          addMessage("bot", "Please upload your campus map screenshot.");
+          awaitingStartChoice = false;
+          return;
+        } else if (lower === "type") {
+          addMessage("bot", "Please enter your starting building name:");
+          awaitingStartChoice = false;
+          awaitingManualStart = true;
+          return;
+        } else {
+          addMessage("bot", "Please reply with either <b>upload</b> or <b>type</b>.");
+          return;
+        }
+      }
+  
+      if (awaitingManualStart) {
+        const payload = { building_name: userInput };
+        const res = await fetch("http://localhost:8000/manual_start", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+  
+        const data = await res.json();
+        if (data.error) {
+          addMessage("bot", `<div class='error'>❗ ${data.error}</div>`);
+          return;
+        }
+  
+        const infoBlock = `
+          <div class='bot-bubble'>
+            <b>Building Name:</b> ${data.building_name}<br>
+            <b>Building Number:</b> ${data.building_number}<br>
+            <b>Address:</b> 📍 ${data.address}
+          </div>`;
+        addMessage("bot", infoBlock);
+        startingPoint = data.building_name;
+        addMessage("bot", "Would you like to know nearby buildings? (yes/no)");
+        awaitingNearbyConsent = true;
+        awaitingManualStart = false;
+        return;
+      }
+  
+      if (awaitingNearbyConsent && lower === "yes") {
+        if (startingPoint) {
+          addMessage("bot", `Okay. Where would you like to go in UofA from <b>${startingPoint}</b>?`);
+        } else {
+          addMessage("bot", "Okay. Where would you like to go in UofA?");
+        }
+        awaitingNearbyConsent = false;
+        awaitingDirection = true;
+        return;
+      }
+  
+      if (awaitingNearbyConsent && lower === "no") {
+        addMessage("bot", "Okay. Where would you like to go in UofA?");
+        awaitingNearbyConsent = false;
+        awaitingDirection = true;
+        return;
+      }
+  
+      if (awaitingDirection) {
+        const payload = {
+          building_name: userInput,
+          accessibility: accessibilityEnabled,
+          request_nearby: false
+        };
+  
+        const res = await fetch("http://localhost:8000/directions", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+  
+        const data = await res.json();
+  
+        if (data.directions && data.directions.length > 0) {
+          const steps = data.directions.map(d => `<li>${d}</li>`).join("");
+          addMessage("bot", `<div class='bot-bubble'><div class='llm-block'><b>Directions:</b><ul>${steps}</ul></div></div>`);
+        } else {
+          addMessage("bot", `<div class='bot-bubble'><div class='llm-block'><b>Directions:</b><br>${formatResponse(data.llm_response)}</div></div>`);
+        }
+  
+        if (data.accessibility) {
+          const { ramps, elevators } = data.accessibility;
+          let accMsg = "<b>Accessibility Features:</b><ul>";
+          accMsg += `<li><b>Ramps:</b> ${ramps?.length ? ramps.join(", ") : "No data available"}</li>`;
+          accMsg += `<li><b>Elevators:</b> ${elevators?.length ? elevators.join(", ") : "No data available"}</li>`;
+          accMsg += "</ul>";
+          addMessage("bot", `<div class='bot-bubble'><div class='llm-block'>${accMsg}</div></div>`);
+        }
+  
+        addMessage("bot", "Would you like help with another building? (yes to continue, or say thanks/end to finish)");
+        awaitingDirection = false;
+        awaitingNearbyConsent = true;
+      }
+    });
+  
+    // ⏎ Trigger Send on Enter key
+    userInputField.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        sendBtn.click();
+      }
+    });
+  </script>
+  
+  
+</body>
+</html>

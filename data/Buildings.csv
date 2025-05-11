@@ -1,0 +1,865 @@
+Number,Name,Address,Latitude,Longitude
+2,Art Building &amp; Art Museum,1031 N Olive Rd,32.2338336,-110.955068
+2A,Art Building Addition,1031 N Olive Rd,32.2338336,-110.955068
+3,Drama,1025 N Olive Rd,32.2352758,-110.9563672
+3A,Drama Addition,1025 N Olive Rd,32.2352758,-110.9563672
+4,Fred Fox School of Music,1017 N Olive Rd,32.2348661,-110.954792
+4A,Fred Fox School of Music Addition,1017 N Olive Rd,32.2348661,-110.954792
+5,Coconino Residence Hall,1003 N Olive Rd,32.234184,-110.9554014
+6,Slonaker House,1027 E 2 St,32.2341148,-110.9559923
+7,Manzanita Residence Hall,1010 N Park Ave,32.2343564,-110.9565447
+7A,Mohave Residence Hall,1000 N Park Ave,32.2343173,-110.9563602
+8,Gila Residence Hall,1009 E James E Rogers Way,32.2329727,-110.954714
+9,Maricopa Residence Hall,1031 E James E Rogers Way,32.2329727,-110.954714
+10,Yuma Residence Hall,1107 E James E Rogers Way,32.2329727,-110.954714
+11,John W. Harshbarger Building,1133 E James E Rogers Way,32.2329727,-110.954714
+12,Mines And Metallurgy,1235 E James E Rogers Way,32.2329727,-110.954714
+14,Transitional Office Building,1731 E 2 St,32.2340446,-110.9459266
+17,Student Union Memorial Center,1303 E University Blvd,32.2325991,-110.9519852
+19,Student Union Memorial Center - Campus Store,1209 E University Blvd,32.2329695,-110.9522643
+20,Engineering,1127 E James E Rogers Way,32.2329727,-110.954714
+21,Old Main,1200 E University Blvd,32.2318891,-110.9534867
+23,Cesar E. Chavez Building,1110 E James E Rogers Way,32.2329727,-110.954714
+24,Center For English As A Second Language,1100 E James E Rogers Way,32.2329727,-110.954714
+25,Communication,1103 E University Blvd,32.2323206,-110.9546935
+26,Raymond H Thompson Building,1013 E University Blvd,32.23243,-110.9556832
+27,Social Sciences,1145 E South Campus Dr,32.2311227,-110.9540918
+28,Douglass,1100 E University Blvd,32.2313925,-110.9547294
+29,Centennial Hall,1020 E University Blvd,32.2309508,-110.9554234
+30,Arizona State Museum South,1010 E University Blvd,32.2314008,-110.9562044
+30A,Emil W. Haury Anthropology Building,1009 E South Campus Dr,32.2307913,-110.9560429
+31,Cochise Residence Hall,1018 E South Campus Dr,32.2304278,-110.9557721
+32,South Hall,1042 E South Campus Dr,32.2305297,-110.9551637
+33,Saguaro Hall,1110 E South Campus Dr,32.2304911,-110.9544215
+34,Yavapai Residence Hall,1121 E 4 St,32.230522,-110.9538711
+35,Herring Hall,1130 E South Campus Dr,32.2306719,-110.953622
+36,Forbes,1140 E South Campus Dr,32.2309686,-110.9534181
+37,Carl S. Marvel Laboratories Of Chemistry,1230 E University Blvd,32.2314818,-110.9514735
+38,Shantz,1177 E 4 St,32.2302945,-110.9526907
+40,Robert L. Nugent Building,1212 E University Blvd,32.2313114,-110.9526788
+41,Chemistry,1306 E University Blvd,32.231055,-110.952129
+41A,The Commons,1306 E University Blvd,32.231055,-110.952129
+43,Biological Sciences East,1311 E 4 St,32.2303046,-110.9514565
+44,Chemical Sciences Building,1305 E 4 St,32.2308212,-110.952054
+45,Tree Ring Archives,604 N Santa Rita Ave,32.2291638,-110.9525908
+45A,Tree Ring Shop,604 N Santa Rita Ave,32.2291638,-110.9525908
+45B,Bryant Bannister Tree Ring Building,1215 E Lowell St,32.2290069,-110.9524971
+46,Central Heating And Refrigeration Plant,640 N Santa Rita Ave,32.2298646,-110.9523042
+46B,Electrical Services Annex,630 N Santa Rita Ave,32.229514,-110.9519198
+50,Santa Cruz Residence Hall,550 N Highland Ave,32.228888,-110.9505355
+50A,Apache Residence Hall,570 N Highland Ave,32.2286849,-110.9503357
+50B,Apache Nonresidential,570 N Highland Ave,32.2286849,-110.9503357
+52,Greenlee Residence Hall,610 N Highland Ave,32.2298516,-110.950521
+53,Graham Residence Hall,1418 E 4 St,32.2302068,-110.9505178
+54,Albert B. Weaver Science-Engineering Library,744 N Highland Ave,32.2311137,-110.9506548
+55,Main Library,1510 E University Blvd,32.2309343,-110.9491088
+55A,Main Library Expansion,1510 E University Blvd,32.2309343,-110.9491088
+56,Bear Down Building,1428 E University Blvd,32.2311778,-110.9500772
+56,Bear Down Gymnasium,1428 E University Blvd,32.2311778,-110.9500772
+56A,Bartlett Academic Success Center,1435 E 4 St,32.2306858,-110.9502326
+57,Hopi Lodge Residence Hall,1440 E 4 St,32.2302399,-110.9499577
+58,West Stadium,530 N Vine Ave,32.2287018,-110.9494673
+58A,Arizona Stadium,540 N Vine Ave,32.2264767,-110.9495302
+58B,Scholarship Suites,553 N Vine Ave,32.2264767,-110.9495302
+58E,Lowell-Stevens Football Facility,565 N Cherry Ave,32.2294971,-110.9488341
+58F,Arizona East Stadium II,541 N Cherry Ave,32.2288398,-110.9482879
+59,Pinal Residence Hall,1511 E 6 St,32.2279887,-110.9491988
+59A,Pinal Hall Nonresidential,1511 E 6 St,32.2279887,-110.9491988
+60,Navajo Residence Hall,1557 E 6 St,32.2279254,-110.9491619
+60A,Navajo Hall Nonresidential,1557 E 6 St,32.2279254,-110.9491619
+61,Arizona East Stadium I,541 N Cherry Ave,32.2288398,-110.9482879
+61A,East Stadium Addition,525 N National Championship Dr,32.2286626,-110.9477853
+61B,Richard F Caris Mirror Lab,527 N National Championship Dr,32.2286125,-110.9474354
+61C,Richard F Caris Mirror Lab,527 N National Championship Dr,32.2286125,-110.9474354
+61E,Richard F Caris Mirror Lab,527 N National Championship Dr,32.2286125,-110.9474354
+61F,Richard F Caris Mirror Lab,527 N National Championship Dr,32.2286125,-110.9474354
+62B,Custodial,1722 E Enke Dr,32.22931,-110.9454828
+62D,Facilities Management Ag Equipment,1783 E 6 St,32.2281763,-110.9457711
+62E,Facilities Management Grounds Offices,1783 E 6 St,32.2281763,-110.9457711
+63,Charles P. Sonett Space Sciences Building,1541 E University Blvd,32.2322985,-110.9485364
+63A,Charles P. Sonett Space Sciences Building Addition,1541 E University Blvd,32.2322985,-110.9485364
+64,Steward Observatory Annex,1540 E 2 St,32.2335345,-110.9485826
+64A,Steward Observatory Temporary Modular Building,1540 E 2 St,32.2335345,-110.9485826
+65,Steward Observatory,933 N Cherry Ave,32.2330649,-110.9483112
+65A,Steward Observatory Addition,933 N Cherry Ave,32.2330649,-110.9483112
+65B,Steward Observatory Expansion,933 N Cherry Ave,32.2330649,-110.9483112
+65C,Steward Observatory Exp I,933 N Cherry Ave,32.2330649,-110.9483112
+66,Administration,1401 E University Blvd,32.2327247,-110.9508944
+67,Modern Languages,1423 E University Blvd,32.2324196,-110.9502408
+68,Psychology,1503 E University Blvd,32.2318855,-110.9491151
+69,Education,1430 E 2 St,32.233596,-110.9499606
+70,Manuel Pacheco Integrated Learning Center,1500 E University Blvd,32.2316357,-110.9493263
+71,Speech and Hearing Sciences,1131 E 2 St,32.234144,-110.9537601
+72,Civil Engineering,1209 E 2 St,32.2343006,-110.9531003
+73,Computer Center,1077 N Highland Ave,32.2356986,-110.9517785
+73A,Computer Center Addition,1077 N Highland Ave,32.2356986,-110.9517785
+74,SBS 1st Street Annex,1515 E 1 St,32.235105,-110.9486774
+75,"College Of Architecture, Planning, And Landscape Architecture - West",1040 N Olive Rd,32.2354021,-110.9549829
+75A,"College Of Architecture, Planning, And Landscape Architecture - East",1160 E Speedway Blvd,32.2348661,-110.954792
+76,Richard A. Harvill Building,1103 E 2 St,32.2343702,-110.9544039
+77,Gould-Simpson,1040 E 4 St,32.2297355,-110.9548634
+78,McClelland Park,650 N Park Ave,32.2297994,-110.9563162
+79,Huachuca Residence Hall,940 E 4 St,32.2300555,-110.9574425
+79A,Kaibab Residence Hall,922 E 4 St,32.2299856,-110.9573624
+79B,Kaibab Hall Nonresidential,922 E 4 St,32.2299856,-110.9573624
+79C,Huachuca Hall Nonresidential,940 E 4 St,32.2300555,-110.9574425
+81,Physics-Atmospheric Sciences,1118 E 4 St,32.2299224,-110.9539992
+82,Facilities Management Elevator Shop,644 N Santa Rita Ave,32.229943,-110.9531102
+83,Sonora Residence Hall,940 E 5 St,32.228966,-110.9594752
+84,Arizona Residence Hall,910 E 5 St,32.2286086,-110.9573252
+85,Coronado Residence Hall,822 E 5 St,32.2287473,-110.958695
+85A,La Aldea,825 E 5 St,32.2295175,-110.9588799
+86B,Archive Of Visual Arts,1014-1018 E 6 St,32.2276178,-110.955835
+86C,TBA - 1006,1006 E 6 St,32.2275731,-110.9562155
+86F,ROTC,1020 E 6 St,32.227561,-110.955713
+86G,Cat Tran Service Facility,1022 E 6 St,32.227564,-110.955658
+86K,ROTC Storage,1144-1148 E 6 St,32.2276514,-110.9536525
+86M,TBA - 1010-1012,1010-1012 E 6 St,32.2275374,-110.9559939
+86N,Office of Sustainability Storage,1024 E 6 St,32.2275877,-110.9556116
+87,UA Global Center,615 N Park Ave,32.2296407,-110.9576993
+87A,UA Global Center Expansion,615 N Park Ave,32.2296407,-110.9576993
+88,Biological Sciences West,1041 E Lowell St,32.2288832,-110.955326
+88A,Ramada No 2,1111 E Lowell St,32.2291671,-110.9545272
+89,Mathematics,617 N Santa Rita Ave,32.2293473,-110.9530673
+89A,Mathematics Teaching Laboratory,1129 E Lowell St,32.2288128,-110.9530597
+90,Animal and Comparative Biomedical Sciences,1117 E Lowell St,32.2288537,-110.9538134
+91,Flandrau Science Center And Planetarium,1601 E University Blvd,32.2325025,-110.9476774
+92,Gerard P. Kuiper Space Sciences,1629 E University Blvd,32.2323182,-110.9473358
+92A,Gerard P. Kuiper Space Sciences Addition,1629 E University Blvd,32.2323182,-110.9473358
+93,Ina E. Gittings Building,1713 E University Blvd,32.2320294,-110.9463412
+93A,Tennis Facility,902 N Martin Ave,32.2329966,-110.9442137
+93B,Robson Tennis Center,900 N Martin Ave,32.2327857,-110.9447609
+94,Meinel Optical Sciences,1630 E University Blvd,32.2314086,-110.9471124
+94A,Meinel Optical Sciences  Addition,1630 E University Blvd,32.2314086,-110.9471124
+94B,Meinel Optical Sciences Addition I,1630 E University Blvd,32.2314086,-110.9471124
+94D,Meinel Optical Sciences West Bldg Expansion,1630 E University Blvd,32.2314086,-110.9471124
+95,Highland Commons,1224 E Lowell St,32.2283519,-110.9521072
+96,McKale Memorial Center,1721 E Enke Dr,32.2299068,-110.9455634
+96A,Hillenbrand Aquatic Center,1827 E Enke Dr,32.2309657,-110.9450326
+96B,Mary Roby Gymnastics Training Center,710 N Martin Ave,32.2305975,-110.9450978
+96C,Eddie Lynch Athletics Pavilion,1721 E Enke Dr,32.2299068,-110.9455634
+98,Hillenbrand Field House,1700 E 2 St,32.2334226,-110.9454245
+98A,Lapan Family Center,1700 E 2 St,32.2334226,-110.9454245
+98B,Rita Hillenbrand Stadium,1700 E 2 St,32.2334226,-110.9454245
+99,Stevie Eller Dance Theatre,1737 E University Blvd,32.2326976,-110.9455964
+100,Police Department,1852 E 1 St,32.2345759,-110.9444782
+100A,Police Department Storage,1852 E 1 St,32.2345759,-110.9444782
+102,Graduate and Professional Student Council,1031 N Mountain Ave,32.2346819,-110.9525962
+103,John P. Schaefer Center For Creative Photography,1030 N Olive Rd,32.2350258,-110.9547428
+104,Electrical And Computer Engineering,1230 E Speedway Blvd,32.2353213,-110.9533527
+105,Learning Services Building,1512 E 1 St,32.2345988,-110.9491956
+106,Life Sciences South,1007 E Lowell St,32.2289874,-110.9560705
+107,Marley,1145 E 4 St,32.2302788,-110.9533073
+108,McClelland Hall,1130 E Helen St,32.2366572,-110.9543371
+109,Marvin D. &#39;Swede&#39; Johnson Building,1111 N Cherry Ave,32.2366447,-110.9485659
+110A,University Transit Hub,1640 E University Blvd,32.2314941,-110.9475579
+111,Biochemistry Greenhouse A,1059 E 8 St,32.2253043,-110.9550879
+111A,Biochemistry Greenhouse B,1059 E 8 St,32.2253043,-110.9550879
+112,Fluid Dynamics Research Laboratory,1025 N Mountain Ave,32.2345281,-110.9526271
+113,Henry Koffler Building,1340 E University Blvd,32.2312201,-110.9513396
+114,Second Street Garage,1340 E 2 St,32.2336424,-110.9509586
+115,Cherry Avenue Garage,1641 E Enke Dr,32.2299096,-110.9479577
+115A,Cherry Avenue Garage Expansion,1641 E Enke Dr,32.2299096,-110.9479577
+116,Park Avenue Garage,1140 N Park Ave,32.2369403,-110.9560657
+117,Student Recreation Center,1400 E 6 St,32.2273577,-110.9504871
+117A,Student Recreation Center Expansion,1400 E 6 St,32.2273577,-110.9504871
+117B,Student Recreation Center - South Field Restrooms,1400 E 6 St,32.2273577,-110.9504871
+117C,Student Recreation Center - North Field Restrooms,1400 E 6 St,32.2273577,-110.9504871
+118,Colonia De La Paz Residence Hall,602 N Highland Ave,32.2293985,-110.9505555
+118A,Colonia De La Paz Nonresidential,602 N Highland Ave,32.2293985,-110.9505555
+119,Aerospace And Mechanical Engineering,1130 N Mountain Ave,32.236939,-110.9519205
+120,Dennis Deconcini Environment And Natural Resources,520 N Park Ave,32.228214,-110.955868
+121,Villa Del Puente,575 N Highland Ave,32.2288278,-110.9513897
+121A,Villa Del Puente South,525 N Highland Ave,32.2283101,-110.9512853
+121B,Villa Del Puente Non-Residential,525 N Highland Ave,32.2283101,-110.9512853
+122,Posada San Pedro,601 N Highland Ave,32.2293501,-110.9512875
+123,Pueblo De La Cienega,621 N Highland Ave,32.2296537,-110.9514062
+124,Facilities Management - Storage,1126 - 1128 E 6 St,32.2274116,-110.9539484
+126,Grand Challenges Research Building,750 N Cherry Ave,32.23129,-110.9477345
+127A,Leased Out,1620 E 6 St,32.227522,-110.9474736
+127B,Leased Out,1624 E 6 St,32.2275381,-110.9473804
+127C,Leased Out,1626 E 6 St,32.227541,-110.947386
+127D,Leased Out,1628 E 6 St,32.2275376,-110.9473222
+128,Martin Luther King Jr. Building,1322 E 1 St,32.2346451,-110.9516561
+129,Graduate Center,1600 E 1 St,32.2345973,-110.9479393
+131,Likins Hall,500 N Highland Ave,32.2280487,-110.9504307
+132,Arbol de la Vida Residence Hall,515 N Tyndall,32.2282068,-110.9580497
+133,Residence Life Auxiliary Services Building,542 N Euclid Ave,32.2287411,-110.9592326
+134,Beal Center,1030 N Mountain Ave,32.234641,-110.9521588
+135,Pima Residence Hall,1340 E 1 St,32.2345673,-110.9514407
+135A,Pima Hall Addition,1340 E 1 St,32.2345673,-110.9514407
+136,Patricia A Bartlett Building,1010 N Highland Ave,32.234101,-110.9506404
+137,Environment and Natural Resources 2,1064 E Lowell St,32.2285585,-110.9553043
+138,South Stadium Parking Structure,430 N Warren Ave,32.2272652,-110.946299
+140,Richard Jefferson Gymnasium,720 N Martin Ave,32.2309452,-110.9446555
+141,Ginny L Clements Academic Center,1720 E Enke Dr,32.2293625,-110.9461136
+142,Cole and Jeannie Davis Sports Center,640 N National Championship Dr,32.2290565,-110.9469125
+150,Helen S. Schaefer Building,1508 E Helen St,32.2369968,-110.9493472
+151A,Babcock Office Building A,1717 E Speedway Blvd,32.2368218,-110.945614
+151B,Babcock Residence Hall B,1717 E Speedway Blvd,32.2368218,-110.945614
+151C,Babcock Office Building C,1717 E Speedway Blvd,32.2368218,-110.945614
+151D,Babcock Office Building D,1717 E Speedway Blvd,32.2368218,-110.945614
+151E,Babcock Residence Hall E,1717 E Speedway Blvd,32.2368218,-110.945614
+151F,Babcock Residence Hall F,1717 E Speedway Blvd,32.2368218,-110.945614
+155F,Art Works A,1509 E Helen St,32.2376126,-110.9494178
+155H,Sonoran UCEDD,1521 E Helen St,32.2375878,-110.9489941
+155J,The LGBTQ+ Institute,1533 E Helen St,32.2375856,-110.9487775
+155M,Art Works B,1503 E Helen St,32.2375517,-110.9495734
+155N,Art Works C,1515 E Helen St,32.2375485,-110.9492789
+156,College of Engineering - Berge Design Program,715 N Park Ave,32.2311487,-110.957073
+158,University Services Building,888 N Euclid Ave,32.2324694,-110.9590921
+158B,Louise Foucar Marshall Building,845 N Park Ave,32.2327331,-110.9571368
+159,Main Gate Garage,815 E 2 St,32.2337156,-110.9590461
+160,Tyndall Avenue Garage,880 E 4 St,32.229726,-110.958687
+167,W.A. Franke Honors College,1101 E Mabel St,32.2390442,-110.9550993
+167A,W.A. Franke Honors College - Residence Hall,1101 E Mabel St,32.2390442,-110.9550993
+168,University of Arizona Recreation and Wellness Center,1051 E Mabel,32.238761,-110.9554366
+169,University of Arizona Honors College Parking Garage,1021 E Mabel,32.2390306,-110.9559231
+173,Applied Research Building,1420 E Helen St,32.236932,-110.950697
+174,Central Refrigeration Plant,1339 E Helen St,32.2375286,-110.9518921
+176,College Of Law Building,1201 E Speedway Blvd,32.2363652,-110.9530604
+176A,College Of Law Building,1201 E Speedway Blvd,32.2363652,-110.9530604
+177,Rountree Hall,1145 N Mountain Ave,32.23694,-110.952716
+180,Sixth Street Garage,1201 E 6 St,32.2283866,-110.9533493
+180A,Facilities Management Custodial,1201 E 6 St,32.2283866,-110.9533493
+180B,CALS Campus Greenhouse Support Complex,1201 E 6 St,32.2283866,-110.9533493
+180C,CALS Campus Greenhouse,1201 E 6 St,32.2283866,-110.9533493
+180D,CALS Campus Greenhouse,1201 E 6 St,32.2283866,-110.9533493
+181,Parking And Transportation Office Building,1117 E 6 St,32.2279611,-110.953444
+182,El Portal,501 N Highland Ave,32.2281128,-110.9514986
+184,Arid Lands Studies,1955 E 6 St,32.2280973,-110.9427933
+184A,Arid Lands Studies Annex,1953 E 6 St,32.2281059,-110.94292
+185,Little Chapel Of All Nations,1052 N Highland Ave,32.2351712,-110.9507012
+186,University Facility Services,1405 N Ring Rd,32.2399152,-110.949275
+190,Highland Avenue Parking Garage,1240 N Highland Ave,32.2380506,-110.9504174
+197,Visual Arts Research Studios,1231 N Fremont Ave,32.238263,-110.955532
+199,Douglass House,1189 E Speedway Blvd,32.2361739,-110.9542905
+199A,Smith House,1195 E Speedway Blvd,32.2361784,-110.9540289
+201,Arizona Health Sciences Center,1501 N Campbell Ave,32.240413,-110.9466397
+201A,Arizona Health Sciences Center Library,1350 N Warren Ave,32.241355,-110.9467815
+201B,Steele Children&#39;s Research Center,1501 N Campbell Ave,32.240413,-110.9466397
+201E,Sarver Heart Center,1501 N Campbell Ave,32.240413,-110.9466397
+201N,AHSC - North,1501 N Campbell Ave,32.240413,-110.9466397
+202,Roy P. Drachman Hall,1295 N Martin Ave,32.2384359,-110.9461825
+203,Nursing,1305 N Martin Ave,32.2391112,-110.9454172
+205,AHSC Central Heating And Refrigeration Plant,1515 N Cherry Ave,32.2410441,-110.9482363
+206,Facilities Management Shops,1515 N Cherry Ave,32.2410441,-110.9482363
+206A,Facilities Management Plumbing/Paint/Mechanical Shops,1505 N Cherry Ave,32.2407752,-110.9488604
+206B,Facilities Management Machine Shop,1505 N Cherry Ave,32.2407752,-110.9488604
+207,Skaggs Pharmaceutical Sciences Center,1703 E Mabel St,32.2416198,-110.9453843
+210,Facilities Management HR,1518 E Lester St,32.243496,-110.9492014
+213,Lester House,1550 E Lester St,32.2435027,-110.9486537
+214,Facilities Management,1502 E Lester St,32.2435454,-110.9495692
+216,Health Sciences Innovation Building,1670 E Drachman,32.2389289,-110.947351
+221,Life Sciences North,1333 N Martin Ave,32.2396944,-110.9455716
+222,Leon Levy Cancer Center,1515 N Campbell Ave,32.24104,-110.944877
+222A,Sydney E. Salmon Building,1515 N Campbell Ave,32.24104,-110.944877
+228,UAHS Auxiliary - 1145,1145 N Campbell Ave,32.2369284,-110.94423
+231,University of Arizona Health Sciences Garage,1401 N Campbell Ave,32.240454,-110.946205
+233,Andrew Weil Center for Integrative Medicine,1502 E Mabel St,32.2384606,-110.9496669
+240,Thomas W. Keating Bioresearch Building,1657 E Helen St,32.2379439,-110.9472625
+241,Medical Research Building,1656 E Mabel St,32.2384806,-110.9470092
+242,Bioscience Research Laboratories,1230 N Cherry Ave,32.2380882,-110.9480649
+290,Warren Apartments,1633-1639 E 1 St,32.235088,-110.9470611
+300A,University Services Annex West,220 W 6 St,32.2281635,-110.9761854
+300B,University Services Annex East,220 W 6 St,32.2281635,-110.9761854
+301,University Library Storage,301 N Cherry Ave,32.2252307,-110.9483967
+302,Confluencenter For Creative Inquiry,1133 E Helen St,32.2376956,-110.9542959
+305,Rincon Vista Track Field,2355 E Winsett St,32.2144762,-110.9365704
+306,ICA Service Facilities,501 S Plumer Ave,32.2147963,-110.9391745
+307,Ground Maintenance,2331 E Winsett St,32.2144697,-110.9372919
+308,Rope Course Facility,2355 E Winsett St,32.2144762,-110.9365704
+309,Rope Course Facility,2355 E Winsett St,32.2144762,-110.9365704
+310,Murphey Field House,2300 E 15 St,32.2159289,-110.9380239
+311,ICA Timer Building,2217 E Winsett St,32.2142842,-110.939004
+312,Residence Life Facilities,411 S Plumer Ave,32.2171174,-110.9389409
+314,Rincon Vista Annex,450 S Tucson Blvd,32.216478,-110.9357248
+314A,Rincon Vista Storage A,450 S Tucson Blvd,32.216478,-110.9357248
+314B,Rincon Vista Storage B,450 S Tucson Blvd,32.216478,-110.9357248
+323,TBA - 1510-1512,1510-1512 E 7 St,32.226264,-110.9491621
+324,TBA - 1423,1423 E 8th St,32.2252647,-110.950334
+329,1070 N Warren Ave - Leased Out,1070 N Warren Ave,32.2355765,-110.946618
+329A,1072 N Warren Ave - Leased Out,1072 N Warren Ave,32.235577,-110.946618
+332,Arizona Historical Society,949 E 2 St,32.2332007,-110.9573202
+335,Hi Corbett Field,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335A,Hi Corbett Field Ticket Office-Press Box,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335B,Hi Corbett Field Clubhouse,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335C,Hi Corbett Field Coaches Offices,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335D,Hi Corbett Field Restrooms,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335E,Hi Corbett Field Concessions,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335F,Hi Corbett Field Restroom-Concessions,3400 E Camino Campestre Stra,32.2131046,-110.9200602
+335G,Terry Francona Hitting Facility,"3400 E Camino Campestre Stra, 85711",32.2131046,-110.9200602
+336,Roy Place Building,44 N Stone Ave,32.2226996,-110.9711167
+339,Tumamoc Annex,1601 W Anklam,32.2254273,-110.9993487
+339A,Tumamoc Annex Garage A,1601 W Anklam,32.2254273,-110.9993487
+339B,Tumamoc Annex Garage B,1601 W Anklam,32.2254273,-110.9993487
+341,Pima County Abrams Building,3950 S Country Club,32.1759407,-110.9278673
+342,Storage,1109 E 7 St,32.2266685,-110.9542828
+342A,Storage,1109 E 7 St,32.2266685,-110.9542828
+343,Storage,1109 E 7 St,32.2266685,-110.9542828
+343A,Storage,1109 E 7 St,32.2266685,-110.9542828
+346,TBA - 1601,"1601 N Tucson Blvd, #3",32.2421247,-110.9356018
+350,The Park - COM Pediatrics,"4455 E Camelback Rd, #E125",33.5093633,-112.0226188
+351,CALS Pima County Cooperative Extension,530 E Whitehouse Canyon,31.850964,-110.9746005
+354,University of Arizona - Nogales,2021 N Grand Ave,32.2355351,-110.9902689
+358,TBA - 330,330 N Vine Ave,32.2258262,-110.9492617
+362,TBA - 350,350 N Highland Ave,32.2254745,-110.9507659
+366,College of Law - Court Rooms,240 N Stone,32.2254802,-110.971224
+370,Paul and Alice Baker Distribution Center,3740 E 34th Street,32.1937558,-110.9122674
+371,TBA - 1324,1324 N Vine Ave,32.2392013,-110.9495343
+374,2141,2141 E 3rd St,32.2321467,-110.9398027
+375,Bear Canyon - Main House,3591 N Bear Canyon Rd,32.2772287,-110.8062767
+375A,Bear Canyon - Guest House,3591 N Bear Canyon Rd,32.2772287,-110.8062767
+375B,Bear Canyon - Event House,3591 N Bear Canyon Rd,32.2772287,-110.8062767
+378,TBA - 1518,1518 E 7th St,32.2262538,-110.9488085
+379,TBA - 1554,1554 E 7th St,32.2262555,-110.9483386
+380,TBA - 1548,1548 E 7th St,32.2262375,-110.9484844
+381,Alfie Norville Gem &amp; Mineral Museum,115 N Church Ave,32.2234437,-110.9731568
+382,TBA - 325,325 N Cherry Ave,32.2256674,-110.9484049
+382A,TBA - 323,323 N Cherry Ave,32.225643,-110.9485249
+382B,TBA - 321,321 N Cherry Ave,32.2256556,-110.9483569
+382C,TBA - 319,319 N Cherry Ave,32.225643,-110.9485249
+406A,1601 N Tucson 23,"1601 N Tucson Blvd, #23",32.241254,-110.9364953
+406B,Human Energy Systems Laboratory,"1601 N Tucson Blvd, #16",32.2420718,-110.9364995
+406C,Human Energy Systems Laboratory,"1601 N Tucson Blvd, #17",32.2419707,-110.9365002
+406E,1601 N Tucson 23A,"1601 N Tucson Blvd, #23A",32.2420449,-110.9364831
+406F,College of Medicine Continuing Education,"1601 N Tucson Blvd, #4",32.2420449,-110.9364831
+407,1601 N Tucson 32,"1601 N Tucson Blvd, #32",32.2408775,-110.9359615
+408,Wassaja Carlos Montezuma Center for Native American Health,1642 E Helen St,32.2370938,-110.9471532
+408A,Enrollment Management Systems and Communication,1628 E Helen St,32.2371482,-110.9474207
+409,Research Development,1618 E Helen St,32.2371143,-110.947778
+409A,Student Affairs Systems Group,1618 E Helen St,32.2371143,-110.947778
+412,UA Visitor Center,811 N Euclid Ave,32.2319386,-110.9598612
+413,Santa Rita House,1219 N Santa Rita Ave,32.2378179,-110.9540177
+414B,TBA - 1228,1228 N Santa Rita Ave,32.2380862,-110.9535645
+415,TBA - 1115,1115 E Helen St,32.2376369,-110.9547699
+418,Mabel Storage,1132 E Mabel St,32.2383958,-110.9542936
+420,Esquire Apartments,1230 N Park Ave,32.2377139,-110.9565294
+421A,Row House 1715,1715 E 7 St,32.2267127,-110.9464446
+421B,Row House 1721,1721 E 7 St,32.2267149,-110.946017
+421C,Row House 1729,1729 E 7th St,32.2268417,-110.9459324
+421D,Row House 1733,1733 E 7th St,32.2267199,-110.9457399
+422A,Storage,1115 E 7 St,32.2267259,-110.9541195
+424A,SLHS Clinic,202 E Speedway Blvd,32.2352686,-110.968381
+425,AZ Area Health Education Center,1834 E Mabel St,32.2384237,-110.9443652
+428,Law Annex III – Undergraduates &amp; Masters of Legal Studies Programs,1215 E Helen St,32.2375324,-110.953289
+429,France-Arizona Institute for Global Grand Challenges,1221 E Helen St,32.2376112,-110.9531169
+429A,UA Bookstores-Tucson Festival of Books,1201 E Helen St,32.2376644,-110.9535932
+432,Geronimo Center A,800 E University Blvd,32.2314017,-110.9592673
+437,Water Resources Research Center,350 N Campbell Ave,32.2263583,-110.9433235
+438,Gender and Women&#39;s Studies,925 N Tyndall Ave,32.233553,-110.9583449
+440,Cancer Center GTS,"1430 E Ft Lowell Rd, Ste 304",32.2643037,-110.9501027
+441,Human Animal Interaction House,915 N Tyndall Ave,32.2333856,-110.9582744
+443,Teach Arizona,1556 W Prince Rd,32.2731342,-110.9985334
+444,Education North,1501 E Speedway Blvd,32.2364601,-110.9494078
+446,Visual Development Lab,2600 N Wyatt Dr,32.2543629,-110.8812693
+451,Arizona Mining &amp; Mineral Museum,1502 W Washington St,32.2244153,-110.9746715
+454,TBA - 407,407 N Mountain Ave,32.2268484,-110.952538
+454A,TBA - 415,415 N Mountain Ave,32.2269539,-110.9525498
+455,Office of General Education,1240 E Mabel St,32.2383954,-110.9531225
+455A,Office of General Education,1240 E Mabel St,32.2383954,-110.9531225
+456,Faculty Center,1216 E Mabel St,32.2384086,-110.953322
+457,Physiology,1527 E Mabel St,32.2388905,-110.9489381
+459,Gilbert University Center,92 W Vaughn,32.2380682,-110.8573874
+463,COM - Residence of Medical Student Education,700 Cypress Court,32.5320369,-110.8786717
+466,TBA - 1244,1244 N Fremont Ave,32.2384529,-110.9549151
+470,Facilities Management Renovation Services,1200 N Mountain Ave,32.2375396,-110.9522971
+471,ARL Annex,1237 N Mountain Ave,32.2380863,-110.9527231
+471A,Law Annex II - Programs,1203 N Mountain Ave,32.2375161,-110.9527271
+471B,WEST Environmental Justice Center,1249 N Mountain Ave,32.2388015,-110.9527287
+472,1533 E Mabel ,1533 E Mabel St,32.2388704,-110.9487941
+474,TBA - 310,310 N Vine Ave,32.2254155,-110.9492852
+476,Graduate Interdisciplinary Programs North,1548 E Drachman St,32.2394058,-110.9486236
+479,COPH-Drachman House,1540 E Drachman St,32.23938,-110.9487839
+480,Broadway Administrative Offices,1700 E Broadway,32.220936,-110.9464234
+483A,Udall Center For Studies In Public Policy,803 E 1 St,32.2345897,-110.9592557
+483B,Udall Center For Studies In Public Policy,811 E 1 St,32.2344925,-110.959005
+483C,Academic Administration West,819 E 1 St,32.2345311,-110.9588049
+483D,Udall Center For Studies In Public Policy,1018 - 1020 N Euclid Ave,32.2348342,-110.9592559
+485,SIROW,1037 E 34th Street,32.1947191,-110.9549717
+487,SIROW lease,3776 N 1 Ave,32.2756268,-110.9606455
+488,University of Arizona - Yuma Academic Center,7875 E 24th St,32.2045399,-110.8580618
+490,Arizona Materials Laboratory,4715 E Ft Lowell Rd,32.2619881,-110.8916583
+490A,Arizona Materials Laboratory,4717 E Ft Lowell Rd,32.2622655,-110.8901354
+491,Alvernon Admin Offices,655 N Alvernon Way,32.2301959,-110.9100088
+492,CT Medical Imaging - Lease,4291 N Campbell Ave,32.2844877,-110.9452788
+493,Facilities Management Electric Shop,1235 N Mountain Ave,32.2382169,-110.953125
+494,COPH - Western Regional Public Health Training Center,1241 N Mountain Ave,32.2382566,-110.9527359
+498,U Of A Motor Pool Garage,1597 E 16 St,32.2149537,-110.9484683
+498A,U Of A Motor Pool Office Building,1597 E 16 St,32.2149537,-110.9484683
+500,Michael J. Drake Building,1415 N 6 Ave,32.2402032,-110.9691653
+502,Health Promotion And Wellness Center,1030 N Alvernon Way,32.235073,-110.9092721
+506,Oro Valley Veterinary Medicine Facility,1580 E Hanley Blvd,32.4029772,-110.9491776
+509,TBA - 1208,1208 E Mabel St,32.2384033,-110.953479
+512,TBA - 1200,1200 E Mabel St,32.2384,-110.9536207
+513,Facilities Management Elevator Shop,1128 E Mabel St,32.2383735,-110.9544814
+514,Pima County Cooperative Extension Teaching Kitchen and Garden,2205 S 4 Ave,32.1964116,-110.965157
+515,YCEDA - Yuma,"899 E Plaza Circle, Ste 2",32.7042833,-114.611032
+520,TBA - 1504,1504  E 7 St,32.2262517,-110.9493229
+528,SBS Tyndall Annex,935 N Tyndall Ave,32.2338334,-110.9582595
+529,Global Initiatives,939 N Tyndall Ave,32.2339623,-110.9582311
+530,Udall Center Annex And Library,943 N Tyndall Ave,32.2340689,-110.9582203
+535,"CALS Pinal Cooperative Extension - Parker, AZ",1012-1020 Hopi Ave,32.2257175,-110.827541
+537,Mt Lemmon Skycenter,8892 E Tanque Verde Rd,32.257444,-110.8028821
+539,All of Us Program - Phoenix,1441 N 12th St,33.4644633,-112.0555023
+540,Facilities Management - Masonry,1501 E Mabel St,32.238917,-110.949574
+543,OV Vet Med - Stallard Pl,10900 N Stallard Pl,32.4042241,-110.9469846
+544,Steward Observatory,4051 S Longfellow Ave,32.1752966,-110.9055864
+546,TBA - Phoenix,706 N 7th St,32.2306235,-110.9699175
+548,William M &quot;Bill&quot; Clements Golf Center,2858 N Camino Principal,32.2589225,-110.8503628
+552,Tri Delta - Lease,1541 E 2 St,32.2340946,-110.9483693
+553,Housing &amp; Residential Life - Storage,2110 E 14 St,32.217077,-110.9401505
+571,Law Annex,1201 N Santa Rita Ave,32.2375291,-110.9541011
+572,Arthritis Center Annex,1333 N Cherry Ave,32.2393425,-110.9484348
+573,Facilities Management Custodial,1526 E Lester St,32.243492,-110.9490175
+605,Indian Ruins Guest House,2799 N Indian Ruins Rd,32.2575277,-110.8489385
+606,Indian Ruins Lab,2799 N Indian Ruins Rd,32.2575277,-110.8489385
+607,Indian Ruins Main House,2799 N Indian Ruins Rd,32.2575277,-110.8489385
+801,Tumamoc Hill - Main Library,1675 W Anklam Rd,32.2189304,-111.0040187
+802,Tumamoc Hill - Old Chemistry,1675 W Anklam Rd,32.2189304,-111.0040187
+803,Tumamoc Hill - USGS,1675 W Anklam Rd,32.2189304,-111.0040187
+804,Tumamoc Hill - Sykes Lab,1675 W Anklam Rd,32.2189304,-111.0040187
+805,Tumamoc Hill - Sykes Lab Annex,1675 W Anklam Rd,32.2189304,-111.0040187
+808,Tumamoc Hill - Storage Shed C,1675 W Anklam Rd,32.2189304,-111.0040187
+810,Tumamoc Hill - Inactive,1675 W Anklam Rd,32.2189304,-111.0040187
+811,Tumamoc Hill - Boathouse,1675 W Anklam Rd,32.2189304,-111.0040187
+812,Tumamoc Hill - Boathouse Annex,1675 W Anklam Rd,32.2189304,-111.0040187
+813,Tumamoc Hill - Residence,1651 W Anklam Rd,32.225101,-111.0006097
+815,Tumamoc Hill - 1600 Caretaker Residence,1600 W Tucson Terrace,32.2250246,-110.9990491
+851,Tumamoc Hill - 14&quot; Telescope,1675 W Anklam Rd,32.2189304,-111.0040187
+852,Tumamoc Hill - 21&quot; Telescope,1675 W Anklam Rd,32.2189304,-111.0040187
+854,KUAT Transmitting Station,Tumamoc Hill,32.2254619,-111.0016214
+855,"Tumamoc Hill - CARBA, KGUN",1675 W Anklam Rd,32.2189304,-111.0040187
+901,Kitt Peak Observatory - 36 Inch,South State Highway 386,31.9868762,-111.5997945
+902,Kitt Peak Observatory,South State Highway 386,31.9868762,-111.5997945
+903,Kitt Peak Observatory - 90 Inch,South State Highway 386,31.9868762,-111.5997945
+904,Kitt Peak Observatory,South State Highway 386,31.9868762,-111.5997945
+905,Kitt Peak Observatory,South State Highway 386,31.9868762,-111.5997945
+907,Kitt Peak Observatory,South State Highway 386,31.9868762,-111.5997945
+908,Kitt Peak Maintenance Supervisor Residence,South State Highway 386,31.9868762,-111.5997945
+909,Kitt Peak Dorm,South State Highway 386,31.9868762,-111.5997945
+910,Spacewatch Telescope - 72 Inch,South State Highway 386,31.9868762,-111.5997945
+911,Kitt Peak 12M Radio Telescope,South State Highway 386,31.9868762,-111.5997945
+912,Kitt Peak Radio Telescope Dormitory,South State Highway 386,31.9868762,-111.5997945
+913,Kitt Peak Radio Telescope Recreation Building,South State Highway 386,31.9868762,-111.5997945
+914,Kitt Peak Radio Telescope Electronics Bldg,South State Highway 386,31.9868762,-111.5997945
+915,Kitt Peak Radio Telescope Operator Residence,South State Highway 386,31.9868762,-111.5997945
+1011,UA Sierra Vista Campus,1140 N Colombo Ave,31.5668068,-110.2457598
+1013,UA Sierra Vista - Academic Technology Building,1140 N Columbo Ave,32.2539787,-110.9741769
+1014,UA Sierra Vista - Foreign Language Building,1140 N Colombo Ave,31.5668068,-110.2457598
+1015,UA Sierra Vista - Arizona Folklore Facility,56 E Folklore Trail,31.4503186,-110.3046251
+1015A,UA Sierra Vista - Moffett House,60 E Folklore Trail,31.4502618,-110.3043048
+1021,Cochise College - Douglas,4190 W Hwy 80,32.2758617,-111.0107079
+1025,UA Sierra Vista - Sofia Building,500 N Garden Ave,31.5575174,-110.3074701
+1050,San Xavier Mine,6200 W Ocotillo Ranch Rd,31.970591,-111.0995957
+1051,San Xavier Mine Classroom Building,6200 W Ocotillo Ranch Rd,31.970591,-111.0995957
+1052,San Xavier Mine - Garage,6200 W Ocotillo Ranch Rd,31.970591,-111.0995957
+11001,Pima Community College- West Campus,2202 W Anklam Rd,32.2275173,-111.0166529
+11002,Flowing Wells High School,3725 N Flowing Wells Rd,32.2749368,-110.9960261
+11003,Pima Community College- Downtown Campus,1255 N Stone Ave,32.2367515,-110.9728308
+11004,Pima Community College - Desert Vista Campus,5901 S Calle Santa Cruz,32.1460176,-110.9900832
+11005,Pima Community College - East Campus,8181 E Irvington Rd,32.1653428,-110.8170975
+11006,Hillel Building,1245 E 2nd St,32.2340212,-110.9526282
+11007,Arizona Western College - Yuma,2020 S Ave 8 E,32.2539787,-110.9741769
+11008,Fort Huachuca,52104 La Guardia,32.2539787,-110.9741769
+11009,Science and Tech Park,9040 S Rita Rd,32.0919287,-110.8089283
+1101,Catalina Observatory Site 1 - 30 Inch Schmidt Telescope,12201 E Mount Bigelow Rd,32.416783,-110.732527
+11010,Central Arizona College-Signal Peak,&nbsp;,32.2539787,-110.9741769
+11011,Rehabilitation Service Administration,4710 E. 29th,32.199227,-110.8914945
+11012,Paradise Valley Community College,18401 N 32 St,33.651284,-112.0109173
+11013,Little Chapel of All Nations,&nbsp;,32.2539787,-110.9741769
+&nbsp;,Cochise College - Sierra Vista,901 N Colombo Ave,31.5634802,-110.2474321
+11015,Arizona Western-College San Luis Technology Institute,1135 N Main St,32.2365405,-110.9781629
+11016,Dunbar Cultural Center,325 W 2 St,32.2326333,-110.977394
+11018,Los Ninos Elementary School,5445 S Alvernon Way,32.1531951,-110.9081927
+1102,Catalina Observatory Site 1 - 61 Inch Telescope,12201 E Mount Bigelow Rd,32.416783,-110.732527
+11020,Buena High School Alternative Learning Center - SVUSD,5224 Buena School Blvd,31.5692904,-110.2378121
+11021,Calabasas School - SCVUSD,131 Camino Maricopa,32.2539787,-110.9741769
+1103,Catalina Observatory Site 1 - Dormitory,12201 E Mount Bigelow Rd,32.416783,-110.732527
+1104,Catalina Observatory Site 1 - Garage/Storage,12201 E Mount Bigelow Rd,32.416783,-110.732527
+1105,Catalina Observatory Site 1 - Power House,12201 E Mount Bigelow Rd,32.416783,-110.732527
+1200,KUAT Radio-TV Transmitter,Mt Bigelow,32.4150754,-110.7145364
+1201,KUAT Radio-TV Transmitter,Mt Bigelow,32.4150754,-110.7145364
+1350,High Altitude Laboratory,Mt Lemmon,32.2539787,-110.9741769
+1401,Mt Lemmon Observatories - 60 Inch Telescope,9800 E Ski Run RD,32.4727249,-110.814011
+1402,Mt Lemmon Observatories - 12 Foot Observatory,9800 E Ski Run RD ,32.4727249,-110.814011
+1403,Mt Lemmon Observatories - 40 Inch Telescope,9800 E Ski Run RD ,32.4727249,-110.814011
+1404,Mt Lemmon Observatories - 32 Inch Telescope,9800 E Ski Run RD ,32.4727249,-110.814011
+1405,Mt Lemmon Observatories - Dwelling,9800 E Ski Run RD ,32.4727249,-110.814011
+1406,Mt Lemmon Observatories - Power House,9800 E Ski Run RD ,32.4727249,-110.814011
+1407,Mt Lemmon Observatories - Garage,9800 E Ski Run RD ,32.4727249,-110.814011
+1408,Mt Lemmon Observatories - Fire Pumphouse,9800 E Ski Run RD ,32.4727249,-110.814011
+1409,Mt Lemmon Observatories - Water Pumphouse,9800 E Ski Run RD ,32.4727249,-110.814011
+1410,Mt Lemmon Observatories - Dormitory #1,9800 E Ski Run RD ,32.4727249,-110.814011
+1411,Mt Lemmon Observatories - Dormitory #2,9800 E Ski Run RD,32.4727249,-110.814011
+1411A,Mt Lemmon Observatories - Learning Center,9800 E Ski Run RD,32.4727249,-110.814011
+1412,Mt Lemmon Observatories - 60 Inch Telescope Control,9800 E Ski Run RD ,32.4727249,-110.814011
+1413,Mt Lemmon Observatories - Refuse Transfer,9800 E Ski Run RD ,32.4727249,-110.814011
+1415,Mt Lemmon Observatories - Radar Tower,9800 E Ski Run RD,32.4727249,-110.814011
+1416,Mt Lemmon Observatories - 24 Inch Telescope,9800 E Ski Run RD,32.4727249,-110.814011
+2001,Campus Farm West - Maintenance HQ,4101 N Campbell Ave,32.281796,-110.9452961
+2004,Campus Farm West - Pavilion and Archives,4101 N Campbell Ave,32.281796,-110.9452961
+2005,Campus Farm West,4101 N Campbell Ave,32.281796,-110.9452961
+2006,Campus Farm West - SNR Complex,4101 N Campbell Ave,32.281796,-110.9452961
+2007,College of Veterinary Medicine Equine Clinical Training Facility,4101 N Campbell Ave,32.281796,-110.9452961
+2008,Campus Farm West - Ag Education Center,4101 N Campbell Ave,32.281796,-110.9452961
+2010,Campus Farm West - Irrigation Lab,4101 N Campbell Ave,32.281796,-110.9452961
+2011,Campus Farm West - Animal Pathology,4101 N Campbell Ave,32.281796,-110.9452961
+2012,Campus Farm West - Animal Pathology,4101 N Campbell Ave,32.281796,-110.9452961
+2013,Campus Farm West - Storage,4101 N Campbell Ave,32.281796,-110.9452961
+2015,Campus Farm West - ABE Machine Shop,4101 N Campbell Ave,32.281796,-110.9452961
+2017,Food Product and Safety Laboratory,4101 N Campbell Ave,32.281796,-110.9452961
+2018,Campus Farm West - Covered Arena,4101 N Campbell Ave,32.281796,-110.9452961
+2019,William J. Parker Agricultural Research Complex,1650 E Limberlost Dr,32.2827498,-110.9460086
+2023,Campus Farm West - Maintenance Offices,4101 N Campbell Ave,32.281796,-110.9452961
+2024,Campus Farm West - Bovine Education &amp; Extension Facility,4101 N Campbell Ave,32.281796,-110.9452961
+2026,Campus Farm West - Old Water Tower,4101 N Campbell Ave,32.281796,-110.9452961
+2027,Campus Farm West - Modular Classroom,4101 N Campbell Ave,32.281796,-110.9452961
+2031,Campus Farm West - Residence,4101 N Campbell Ave,32.281796,-110.9452961
+2032,Campus Farm West - Residence Garage,4101 N Campbell Ave,32.281796,-110.9452961
+2042,Campus Farm West - Beef/Sheep HQ,4101 N Campbell Ave,32.281796,-110.9452961
+2048,Campus Farm West - Animal Nutrition Lab,4101 N Campbell Ave,32.281796,-110.9452961
+2061,Campus Farm East - Wildlife Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2065,Campus Farm East - Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2068,Campus Farm East,4040 N Campbell Ave,32.2803268,-110.9436408
+2069,Campus Farm East - CAC Garage,4040 N Campbell Ave,32.2803268,-110.9436408
+2069A,Campus Farm East,4040 N Campbell Ave,32.2803268,-110.9436408
+2070,Campus Farm East - Residence,4040 N Campbell Ave,32.2803268,-110.9436408
+2071,Campus Farm East - Residence,4040 N Campbell Ave,32.2803268,-110.9436408
+2072,Campus Farm East - Residence Garage,4040 N Campbell Ave,32.2803268,-110.9436408
+2074,Campus Farm East - CEAC Annex,4040 N Campbell Ave,32.2803268,-110.9436408
+2075,Campus Farm East - Fertilizer Building,1951 E Roger Rd,32.280079,-110.9422618
+2076,Campus Farm East,4040 N Campbell Ave,32.2803268,-110.9436408
+2077,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2078,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2079,G H Head House,1971 E Roger Rd,32.281328,-110.942659
+2080,Campus Farm East - Greenhouse Support Complex,4040 N Campbell Ave,32.2803268,-110.9436408
+2081,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2082,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2084,Tucson Village Farm,2201 E Roger Rd,32.2798632,-110.9391707
+2085A,Campus Farm East - Greenhouse Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2087,Campus Farm East - CEAC Teaching GH,4040 N Campbell Ave,32.2803268,-110.9436408
+2088,Controlled Environment Ag Building,1951 E Roger Rd,32.280079,-110.9422618
+2091A,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2091C,Campus Farm East - Greenhouse,4040 N Campbell Ave,32.2803268,-110.9436408
+2091D,Campus Farm East - Utility Building,4040 N Campbell Ave,32.2803268,-110.9436408
+2092,Campus Farm East - Pesticide Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2093,Campus Farm East - CAC Garage Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2094,Campus Farm East - Field Crew HQ,4040 N Campbell Ave,32.2803268,-110.9436408
+2095,Campus Farm East - CEAC Support,4040 N Campbell Ave,32.2803268,-110.9436408
+2096,Campus Farm East - Fisheries Lab,4040 N Campbell Ave,32.2803268,-110.9436408
+2097,Campus Farm East - High Pressure Lab,4040 N Campbell Ave,32.2803268,-110.9436408
+2098,Campus Farm East - Solvent Storage,4040 N Campbell Ave,32.2803268,-110.9436408
+2099A,Pima Cooperative Ext Metal Storage Shed,4210 N Campbell Ave,32.2824728,-110.9425493
+2101,Red Rock Ag Center Shop,37697 S Experiment Station Rd,32.2539787,-110.9741769
+2102,Red Rock Ag Center Residence A,37697 S Experiment Station Rd,32.2539787,-110.9741769
+2103,Red Rock Ag Center Residence B,37697 S Experiment Station Rd,32.2539787,-110.9741769
+2206,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2207,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2257,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2258,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2260,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2265,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2267,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2268,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2269,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2270,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2275,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2276,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2281,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2286,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2287,Yuma Mesa Farm,2186 W County 15th St,32.6113113,-114.6355881
+2323,WCAC - Necropsy Laboratory,2831 N Freeway,32.2585377,-111.0025721
+2324,WCAC - AZ Vet. Diagnostic Lab,2831 N Freeway,32.2585377,-111.0025721
+2325,West Campus Agricultural Ctr,2831 N Freeway,32.2585377,-111.0025721
+2327,WCAC-Shrimp Virus Bldg.,2831 N Freeway,32.2585377,-111.0025721
+2328,Shrimp Pathology Facility,2831 N Freeway,32.2585377,-111.0025721
+2328A,Shrimp Pathology Facility,2831 N Freeway,32.2585377,-111.0025721
+2333,WCAC-AVDI Shop And Storage,2831 N Freeway,32.2585377,-111.0025721
+2334,WCAC-Aqua. Pth. Support,2831 N Freeway,32.2585377,-111.0025721
+2335,WCAC-Old Poultry Bldg,2831 N Freeway,32.2585377,-111.0025721
+2336,WCAC-Aqua. Pth. Support,2831 N Freeway,32.2585377,-111.0025721
+2340,WCAC-Old Aqua. Pth. Lab,2831 N Freeway,32.2585377,-111.0025721
+2341,WCAC - Quonset Hut,2831 N Freeway,32.2585377,-111.0025721
+2342,WCAC - Storage,2831 N Freeway,32.2585377,-111.0025721
+2343,West Campus Agricultural Ctr,2831 N Freeway,32.2585377,-111.0025721
+2501,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2504,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2510,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2511,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2512,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2513,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2514,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2515,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2516,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2516A,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2517,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2518,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2519,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2520,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2521,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2522,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2523,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2524,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2530,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2531,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2531A,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2535,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2536,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2537,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2538,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2539,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2543,Maricopa Agricultural Center,37860 W Smith-Enke Rd,33.073553,-111.9737187
+2705,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2705A,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2707,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2708,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2709,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2710,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2716,Safford Farm,2134 S Montierth Ln,32.8149226,-109.6808776
+2717,Safford Farm - Utility Education Building,2134 S Montierth Ln,32.8149226,-109.6808776
+2740,1480 W Swift Tr/Base Camp,1480 W State Route 366,32.2539787,-110.9741769
+2750,Marana KUAT Transmitter,9100 N I-10 Wb Frontage Rd,32.1501964,-110.8972065
+2902,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2903,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2905,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2906,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2911,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2915,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2918,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2919,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2925,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2926,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2927,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2929,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2930,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2931,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+2933,Glen G Curtis Bldg,6425 W 8 St,32.1778614,-110.8768466
+2934,Yuma Valley Farm Machine Shop,6425 W 8 St,32.1778614,-110.8768466
+2935,Yuma Valley Farm Greenhouse,6425 W 8 St,32.1778614,-110.8768466
+2936,Yuma Valley Farm Greenhouse,6425 W 8 St,32.1778614,-110.8768466
+2937,Yuma Valley Farm Shop,6425 W 8 St,32.1778614,-110.8768466
+2985,Yuma Valley Farm,6425 W 8 St,32.1778614,-110.8768466
+3001,Arizona Biomedical Collaborative (ABC Building),425 N 5 St,32.2274612,-110.9676022
+3002,UA College Of Medicine-Phoenix (Administration),550 E Van Buren,32.2175194,-110.8708295
+3002A,UA College Of Medicine-Phoenix (Auditorium),600 E Van Buren,32.2539787,-110.9741769
+3002B,UA College Of Medicine-Phoenix (Student Bldg),650 E Van Buren,32.2539787,-110.9741769
+3004,Health Sciences Education Building,435 N 5 St,32.2275071,-110.9676029
+3005,Arizona Cancer Center - Phoenix,625 N 6th St,32.2297175,-110.9690535
+3006,Biomedical Sciences Partnership Building - Phoenix,475 N 5th St,32.2276425,-110.9676048
+3007,University Of Arizona Phoenix Plaza,714 E Van Buren,32.2539787,-110.9741769
+3103,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3104,Crop Improvement,2100 E Allen,32.2749827,-110.9400589
+3105,Dairy Supervisor Residence,2100 E Allen,32.2749827,-110.9400589
+3118,Campus Farm South,2100 E Allen,32.2749827,-110.9400589
+3120,Campus Farm South - North Seed House,2100 E Allen,32.2749827,-110.9400589
+3138,Campus Farm South - South Seed House,2100 E Allen,32.2749827,-110.9400589
+3139,Entomology,2100 E Allen,32.2749827,-110.9400589
+3139B,Campus Farm South,2100 E Allen,32.2749827,-110.9400589
+3139C,Campus Farm South,2100 E Allen,32.2749827,-110.9400589
+3139D,Campus Farm South,2100 E Allen,32.2749827,-110.9400589
+3139G,Entomology,2100 E Allen,32.2749827,-110.9400589
+3139J,Entomology,2100 E Allen,32.2749827,-110.9400589
+3140,Earml South Entomology,2100 E Allen,32.2749827,-110.9400589
+3142,Entomology,2100 E Allen,32.2749827,-110.9400589
+3175,Dairy,2100 E Allen,32.2749827,-110.9400589
+3183,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3184,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3186,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3188,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3190,Campus Farm South - Dairy Shop,2100 E Allen,32.2749827,-110.9400589
+3191,Campus Farm South - Warehouse,2100 E Allen,32.2749827,-110.9400589
+3192,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3193,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3196,Campus Farm South - Greenhouse HQ,2100 E Allen,32.2749827,-110.9400589
+3197,Campus Farm South - Shadehouse,2100 E Allen,32.2749827,-110.9400589
+3198,Campus Farm South - Greenhouse,2100 E Allen,32.2749827,-110.9400589
+3201,WEST,2959 W Calle Agua Nueva,32.2894291,-111.0313094
+3301,Sunnyside - Shop/Records Mgmt,250 E Valencia,32.1337054,-110.96342
+3302,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3302A,Sunnyside - Records Mgmt,250 E Valencia,32.1337054,-110.96342
+3303,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3304,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3305,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3306,Sunnyside - Arid Lands,250 E Valencia,32.1337054,-110.96342
+3307,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3308,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3309,Sunnyside - Arid Lands,250 E Valencia,32.1337054,-110.96342
+3309A,Sunnyside - Greenhouse,250 E Valencia,32.1337054,-110.96342
+3309B,Sunnyside - Headhouse,250 E Valencia,32.1337054,-110.96342
+3309C,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3309D,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3310,Sunnyside - Arid Lands,250 E Valencia,32.1337054,-110.96342
+3310A,Sunnyside - Greenhouse Service,250 E Valencia,32.1337054,-110.96342
+3310B,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3311,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3312,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3313,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3314,Sunnyside - Storage,250 E Valencia,32.1337054,-110.96342
+3315B,Sunnyside - Garage,250 E Valencia,32.1337054,-110.96342
+3400,Mt Graham Telescope,Mt Graham,32.2750449,-110.9265842
+3401,Mt Graham Utility Building,Mt Graham,32.2750449,-110.9265842
+3401A,Mt Graham Utility Building,Mt Graham,32.2750449,-110.9265842
+3401B,Mt Graham UAPD Guardhouse,Mt Graham,32.2750449,-110.9265842
+3402,Mt Graham Shop Building,1480 W State Route 366,32.2539787,-110.9741769
+3403,Mt Graham Cable Reel Building,1480 W State Route 366,32.2539787,-110.9741769
+3404,Mt Graham Obs-Laundry Bldg,1480 W State Route 366,32.2539787,-110.9741769
+3405,Mt Graham Obs-Conference Bldg,1480 W State Route 366,32.2539787,-110.9741769
+3406,Mt Graham Obs-UAPD Bldg,1480 W State Route 366,32.2539787,-110.9741769
+3501,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3502,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3503,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3504,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3505,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3506,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3507,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3508,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3509,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3510,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3511,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3512,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3515,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3516,Santa Rita Experimental Range,27000 S Florida Canyon Rd,32.3167634,-110.8240711
+3551,V BAR V - Office Trailer,4005 N Forest Road 618,32.2539787,-110.9741769
+3552,V BAR V - Lab Trailer,4005 N Forest Road 618,32.2539787,-110.9741769
+3553,V BAR V - Multi-Use,4005 N Forest Road 618,32.2539787,-110.9741769
+3554,V BAR V - Residence A,4005 N Forest Road 618,32.2539787,-110.9741769
+3555,V BAR V - Residence B,4005 N Forest Road 618,32.2539787,-110.9741769
+3556,V BAR V - Ranch House,Hwy 487 &amp; Forest Rd 81,32.2539787,-110.9741769
+3557,V BAR V - Cabin,Hwy 487 &amp; Forest Rd 81,32.2539787,-110.9741769
+3558,V BAR V - Barn,Hwy 487 &amp; Forest Rd 81,32.2539787,-110.9741769
+3559,V BAR V - Shop,Hwy 487 &amp; Forest Rd 81,32.2539787,-110.9741769
+3560,Harold and Mitzie James 4-H Camp at Mingus Springs - Rec Hall,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3561,Harold and Mitzie James 4-H Camp at Mingus Springs - Navajo Bunk House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3562,Harold and Mitzie James 4-H Camp at Mingus Springs - Apache Bunk House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3563,Harold and Mitzie James 4-H Camp at Mingus Springs - Zuni Bunk House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3564,Harold and Mitzie James 4-H Camp at Mingus Springs - Hohokam Office,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3565,Harold and Mitzie James 4-H Camp at Mingus Springs - Dining Hall,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3566,Harold and Mitzie James 4-H Camp at Mingus Springs - Anasazi Hlth Cott,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3567,Harold and Mitzie James 4-H Camp at Mingus Springs - Restrooms/Showers,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3568,Harold and Mitzie James 4-H Camp at Mingus Springs - Storage,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3569,Harold and Mitzie James 4-H Camp at Mingus Springs - Havasu Bunk House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3570,Harold and Mitzie James 4-H Camp at Mingus Springs - Large Bunk House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3571,Harold and Mitzie James 4-H Camp at Mingus Springs - Pump House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3572,Harold and Mitzie James 4-H Camp at Mingus Springs - Power House,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3573,Harold and Mitzie James 4-H Camp at Mingus Springs - Cook&#39;s Cabin,AZ-89 ALT &amp; NF-104,34.5451094,-112.4700879
+3601,Al-Marah - Office,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3602,Al-Marah - Customer Barn,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3603,Al-Marah - Pasture Residence,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3604,Al-Marah - Main Residence,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3604A,Al-Marah - Kennel,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3604B,Al-Marah - Storage,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3604C,Al-Marah - Restroom,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3605,Al-Marah - Indoor Arena,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3606,Al-Marah - NE Residence,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3607,Al-Marah - Stud Barn,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3608,Al-Marah - Hay Barn,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3609,Al-Marah - Show Barn 14 Stall,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3610,Al-Marah - Outdoor Arena,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3611,Al-Marah - Show Barn 16 Stall,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3612,Al-Marah - Caretaker Residence,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3613,Al-Marah - South Residence,4101 N Bear Canyon Rd,32.2803572,-110.8012145
+3651,Cracchiolo DK Ranch - Livestock Barn,225 S Merritt Ranch Rd,34.735278,-111.916582
+3652,Cracchiolo DK Ranch - Horse Barn,225 S Merritt Ranch Rd,34.735278,-111.916582
+3653,Cracchiolo DK Ranch - Meeting/Tack Room,225 S Merritt Ranch Rd,34.735278,-111.916582
+3655,Cracchiolo DK Ranch - Guest House,225 S Merritt Ranch Rd,34.735278,-111.916582
+3656,Cracchiolo DK Ranch - Main House,225 S Merritt Ranch Rd,34.735278,-111.916582
+3657,Cracchiolo DK Ranch - Pump House,225 S Merritt Ranch Rd,34.735278,-111.916582
+3701,The Bridges - Mission Integration Lab,2620 S Catalyst Dr,32.1896051,-110.9478737
+3702,The Bridges - Refinery Building,1600 E Idea Ln,32.1867781,-110.9474809
+4000,Biosphere 2,32540 S Biosphere Rd,32.5826236,-110.8425417
+4000A,Biosphere 2 Ocean Viewing Gallery,32540 S Biosphere Rd,32.5826236,-110.8425417
+4001,Biosphere 2 Planning Center,32540 S Biosphere Rd,32.5826236,-110.8425417
+4001A,Biosphere 2 Planning Center Annex,32540 S Biosphere Rd,32.5826236,-110.8425417
+4002,Biosphere 2 Faculty Building A,32540 S Biosphere Rd,32.5826236,-110.8425417
+4005,Biosphere 2 Faculty Building D,32540 S Biosphere Rd,32.5826236,-110.8425417
+4006,Biosphere 2 South Lung,32540 S Biosphere Rd,32.5826236,-110.8425417
+4007,Biosphere 2 West Lung,32540 S Biosphere Rd,32.5826236,-110.8425417
+4008,Biosphere 2 Energy Center,32540 S Biosphere Rd,32.5826236,-110.8425417
+4009,Biosphere 2 Cooling Towers,32540 S Biosphere Rd,32.5826236,-110.8425417
+4010,Biosphere 2 Analytical Lab,32540 S Biosphere Rd,32.5826236,-110.8425417
+4030,Biosphere 2 Visitor Center,32540 S Biosphere Rd,32.5826236,-110.8425417
+4031,Biosphere 2 Food Court,32540 S Biosphere Rd,32.5826236,-110.8425417
+4032,Biosphere 2 Theater,32540 S Biosphere Rd,32.5826236,-110.8425417
+4033,Biosphere 2 Residential A,32540 S Biosphere Rd,32.5826236,-110.8425417
+4034,Biosphere 2 Residential B,32540 S Biosphere Rd,32.5826236,-110.8425417
+4035,Biosphere 2 Residential C,32540 S Biosphere Rd,32.5826236,-110.8425417
+4036,Biosphere 2 Residential D,32540 S Biosphere Rd,32.5826236,-110.8425417
+4037,Biosphere 2 Residential E,32540 S Biosphere Rd,32.5826236,-110.8425417
+4038,Biosphere 2 Residential F,32540 S Biosphere Rd,32.5826236,-110.8425417
+4040,Biosphere 2 Residential G,32540 S Biosphere Rd,32.5826236,-110.8425417
+4041,Biosphere 2 Residential H,32540 S Biosphere Rd,32.5826236,-110.8425417
+4042,Biosphere 2 Residential J,32540 S Biosphere Rd,32.5826236,-110.8425417
+4043,Biosphere 2 Residential K,32540 S Biosphere Rd,32.5826236,-110.8425417
+4044,Biosphere 2 Residential L,32540 S Biosphere Rd,32.5826236,-110.8425417
+4045,Biosphere 2 Residential M,32540 S Biosphere Rd,32.5826236,-110.8425417
+4046,Biosphere 2 Residential N,32540 S Biosphere Rd,32.5826236,-110.8425417
+4047,Biosphere 2 Residential P,32540 S Biosphere Rd,32.5826236,-110.8425417
+4048,Biosphere 2 Residential Q,32540 S Biosphere Rd,32.5826236,-110.8425417
+4065A,Biosphere 2 Observatory A,32540 S Biosphere Rd,32.5826236,-110.8425417
+4065B,Biosphere 2 Observatory B,32540 S Biosphere Rd,32.5826236,-110.8425417
+4065C,Biosphere 2 Observatory C,32540 S Biosphere Rd,32.5826236,-110.8425417
+4065D,Biosphere 2 Observatory D,32540 S Biosphere Rd,32.5826236,-110.8425417
+4065E,Biosphere 2 Observatory E,32540 S Biosphere Rd,32.5826236,-110.8425417
+4102,University of Arizona - 55 Chandler,"55 N Arizona Place, Ste 310",33.3039554,-111.8404095
+4103,Scottsdale Waterfront,7135 E Camelback Rd,32.1504917,-110.7799902
+4104,University of Arizona - 1811 Chandler,1811 E Northrop Blvd,33.2799891,-111.8107927
+4105,University of Arizona - 180 Chandler,"180 S Arizona Ave, Ste 301",32.2200933,-110.9680986
+7002,TBD,2ND ST &amp; PARK AVE,32.2337768,-110.9567885
+7003,Glendale Community College,6000 W Olive Avenue,32.2915307,-111.015631
+7005,Mesa Community College (MCC),1833 W Southern Avenue,33.391791,-112.0974097
+&nbsp;,Maricopa Agricultural Center,37860 W. Smith-Enke Road,33.073553,-111.9737187
+&nbsp;,Maricopa Agricultural Center,37860 W. Smith-Enke Road,33.073553,-111.9737187
+&nbsp;,University of Arizona South Campus,1140 N. Colombo Ave.,31.5668068,-110.2457598
+&nbsp;,Tucson Mall parking lot,4500 N. Oracle Rd. Pad 09,32.2874806,-110.9736691
+&nbsp;,U of A Tucson Agricultural Center,Campbell Farms East,32.2135057,-110.7854092
+&nbsp;,&quot;ABOR ROW&quot;,N TYNDALL AVENUE,32.251647,-110.9580488
+9040,UA Science and Tech Park,9040 S Rita Rd,32.0919287,-110.8089283
+99001,Bta Main Bldg,37615 East Highway 60 Superior,33.2810919,-111.1699723
+99003,1215 N. Beaver #201,1215 N Beaver St #201/Flgstf,35.2088907,-111.6457018
+99005,Storage Shed,655 N. Alvernon,32.2301959,-110.9100088
+99007,"Guthrie Peak/ Kuat Safford, AZ",32-39-01 North 109-50-53 West,32.333479,-110.9950835
+99009,University Of Idaho-Aquaculture Research Station,3059 F National Fish Hatch Rd.,32.2539787,-110.9741769
+99011,"Fermi Lab, Batavia, Il","Wilson &amp; Kirk Road, Po Box 500",32.2539787,-110.9741769
+99012,White River Indian Reservation,"Po Box 860, State Rte 73, Milepost 342",33.8844911,-110.1813784
+99014,"Keams Canyon, AZ",Hwy 264/ Keams Canyon Housing,32.2539787,-110.9741769
+99015,Tuba City AZ,167 N Main St,32.2237688,-110.9757014
+99017,Yuma County/ Ag Ext,"2200 W 28th Street, Suite 102",32.2005105,-110.986181
+99018,Yavapai County/ Ag Ext Main Office,840 Rodeo Dr,32.1695998,-110.9616373
+99019,Santa Cruz County/ Ag Ext,489 N Arroyo Blvd,32.2894683,-110.8438311
+99020,Pinal County/Ag Ext,820 E Cottonwood Ln. Bldng C,32.894979,-111.742636
+99021,Pima County/Ag Ext,"4210 N Campbell Tucson, Az",32.2824728,-110.9425493
+99022,La Paz County/Ag Ext,"2524 Mutahar Parker, Az",34.1500162,-114.2891177
+99023,Navajo County/ Ag Ext,"748 N. 3rd Street, Holbrook AZ 86025",34.9075404,-110.1549884
+99024,Mohave County/ Ag Ext,101 E Beale St Suite A Kingman,35.1904265,-114.0574642
+99025,Maricopa County/Ag Ext,"4341 E Broadway Rd. Phx, Az",33.4068913,-111.9876473
+99027,Graham County/Ag Ext,"2100 S Bowie Solomon, Az",32.2539787,-110.9741769
+99029,Gila County/Ag Ext,107 W Frontier St Bldg C Payson,34.2318149,-111.3251315
+99030,Coconino County/Ag Ext,"2304 N 3rd St Flagstaff, Az",35.2110495,-111.6142648
+99031,Cochise County/Ag Ext,"450 S Haskell Ave Wilcox, Az",32.2487339,-109.8353555
+99032,Apache County/Ag Ext,"845 W 4th North St. John, Az",34.5126727,-109.3843672
+99035,Usda Bee Research,2000 E Allen Rd Tucson 85719,32.2748225,-110.9415392
+99036,855 W Bell Rd Nogales,855 W Bell Rd Nogales,31.3618322,-110.9485637
+99037,Amado Base Camp,"670 Mt Hopkins Amado, Az 85645",31.6752309,-110.9519964
+99038,Pima College,2202 W Anklam Rd Tucson 85709,32.2275173,-111.0166529
+99041,Sage Memorial Hospital,Pobox 457 Hwy 264 &amp; Us 191,35.7467369,-109.8582053
+99042,LBT Observatory Mt Graham,1480 W State Route 366,32.2539787,-110.9741769
+99043,UPI Clinics,707 N Alvernon Tucson 85711,32.2310399,-110.910117
+99045,Veterans Hospital,3601 S 6th Ave Tucson 85723,32.1798545,-110.965827
+99046,AZ State Prison Yuma,7125 E Juan Sanchez Blvd,32.4906316,-114.7822313
+99047,NAU Flagstaff,307 W Tormey Dr. Flag Az 86011,35.1924152,-111.6567522
+99050,Avra Valley Test Site,11415 W Ajo Way Tcsn Az 85735,32.1778586,-110.9983998
+99051,Mt Hopkins Whipple Observatory,"670 Mt Hopkins Rd Amado, Az",31.6752309,-110.9519964
+99073,Vatican Telescope Mt Graham,12500 W Swift Trail,32.2539787,-110.9741769
+99074,AZ Health Sciences Ctr/Leased,1501 N. Campbell Ave.,32.240413,-110.9466397
+99075,National Optical Astronomy Observatory,950 North Cherry,32.2333507,-110.9473558
+99076,Mirror Lab Storage Facility,250 E Valencia,32.1337054,-110.96342
+99077,Trans-Genomics Research Building,"445 N. Fifth Street, Suite 600",32.2275487,-110.9671187
+99078,2830 N Commonwealth Dr #103,2830 N Commonwealth Dr. #103,34.610614,-111.9185467
+99079,840 Rodeo Dr Bldg C,"840 Rodeo Drive, Building C",32.1695998,-110.9616373
+99080,Greenlee County/ Ag Ext,1684 Fairgrounds Rd Duncan 85534,32.7402167,-109.0985729
+99082,Pinal County/ Ag Ext Satellite Office,"615 W. Cottonwood Lane, Suite 8, Casa Grande",32.893673,-111.762298
+99083,Hand Clinic,"3055 N Campbell Ave., Suite 113",32.2623753,-110.9443929
+99084,Gila County-Globe/AG EXT,5515 S Apache Ave,32.2539787,-110.9741769
+99085,Banner UMC-Sierra Vista,"3533 Canyon de Flores, Suite C",31.5047467,-110.2558319
+99087,Banner University-South,2800 E Ajo Way,32.1763278,-110.9299511

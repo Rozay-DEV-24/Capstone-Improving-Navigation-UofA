@@ -1,0 +1,27 @@
+# Core Web Framework
+fastapi
+uvicorn
+
+# OCR and Image Processing
+pytesseract
+Pillow
+opencv-python
+
+# AI and LLM
+langchain-openai
+langchain-core
+# transformers 
+# datasets 
+# pillow 
+# torchvision
+
+# Environment
+python-dotenv
+python-multipart
+
+# Geolocation
+geopy
+overpy
+playwright
+
+
